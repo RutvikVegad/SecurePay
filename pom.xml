@@ -16,7 +16,6 @@
         <module>WalletService</module>
         <module>TransactionService</module>
         <module>NotificationService</module>
-        <module>ApiGateway</module>
     </modules>
 
     <properties>
